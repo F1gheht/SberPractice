@@ -7,7 +7,7 @@ public class Task3 {
 
         String reversed = new StringBuilder(input).reverse().toString();
 
-        System.out.println(reversed);цц
+        System.out.println(reversed);
 
         if (input.equals(reversed)) {
             System.out.println("Число является палиндромом.");
