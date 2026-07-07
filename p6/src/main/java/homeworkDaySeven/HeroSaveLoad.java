@@ -7,7 +7,7 @@ public class HeroSaveLoad {
         Hero hero = new Hero("Warrior", 1, new Weapon("Stick", 5));
 
         // меняем значения по умолчанию
-        hero.name = "Aragorn";
+        hero.name = "Kostya";
         hero.lvl = 25;
         hero.weapon.name = "Sword";
         hero.weapon.damage = 50;
