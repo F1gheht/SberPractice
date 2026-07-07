@@ -1,3 +1,5 @@
+package ru.vsu.pair;
+
 public class Main {
     public static void main(String[] args){
         pair<String, Integer> pair = new pair<>("Год", 1999);

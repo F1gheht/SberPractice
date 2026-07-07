@@ -1,3 +1,5 @@
+package ru.vsu.pizzaorder;
+
 public class Main1 {
     public static void main(String[] args) {
 

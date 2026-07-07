@@ -1,3 +1,5 @@
+package ru.vsu.list;
+
 import java.util.LinkedList;
 
 class MyList<T> {

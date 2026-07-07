@@ -1,3 +1,5 @@
+package ru.vsu.pizzaorder;
+
 public class PizzaOrder {
 
     private String name;

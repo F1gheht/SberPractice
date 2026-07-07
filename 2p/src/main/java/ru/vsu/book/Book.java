@@ -1,3 +1,5 @@
+package ru.vsu.book;
+
 public class Book {
     String title;
     Author author;

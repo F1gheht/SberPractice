@@ -1,3 +1,5 @@
+package ru.vsu.book;
+
 public class Author {
     String name;
     String gender;

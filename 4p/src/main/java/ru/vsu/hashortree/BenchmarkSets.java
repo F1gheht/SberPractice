@@ -1,3 +1,5 @@
+package ru.vsu.hashortree;
+
 import com.sun.source.tree.Tree;
 import java.util.TreeSet;
 import java.util.HashSet;
