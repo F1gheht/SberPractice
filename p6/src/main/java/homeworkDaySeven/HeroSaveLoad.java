@@ -1,4 +1,4 @@
-package main.java.homeworkDaySeven;
+package homeworkDaySeven;
 
 import java.io.*;
 
