@@ -1,0 +1,10 @@
+ru\vsu\paint\Color.class
+ru\vsu\paint\Point.class
+ru\vsu\paint\Square.class
+ru\vsu\paint\Drawable.class
+ru\vsu\paint\PaintExemple.class
+ru\vsu\paint\Figure.class
+ru\vsu\paint\Rectangle.class
+ru\vsu\paint\Triangle.class
+ru\vsu\paint\Circle.class
+ru\vsu\paint\FigureUtil.class
